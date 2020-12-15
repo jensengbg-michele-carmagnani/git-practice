@@ -29,7 +29,7 @@ body{
   font-weight: 900;
   margin-bottom: 3rem;
 }
-.dark-mode{
+.dark-btn{
   box-shadow:inset 0px 0px 14px -3px #f2fadc;
 	background:linear-gradient(to bottom, #dbe6c4 5%, #9ba892 100%);
 	background-color:#dbe6c4;
@@ -49,4 +49,9 @@ body{
 .dark-mode:hover{
   background:linear-gradient(to bottom, #9ba892 5%, #dbe6c4 100%);
 	background-color:#9ba892;
+}
+
+.dark-screen{
+  color: white;
+  background-color: #757d6f;
 }
